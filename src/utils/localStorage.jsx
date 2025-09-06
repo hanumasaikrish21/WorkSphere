@@ -216,13 +216,6 @@ const admin = [{
     "password": "123",
     "firstName": "Hanuma",
     "name": "Hanuma"
-  },
-  {
-    "id": 2,
-    "email": "praghna@example.com",
-    "password": "123",
-    "firstName": "Praghna",
-    "name": "Praghna"
   }];
 
  // Function to save employee and admin data to localStorage
